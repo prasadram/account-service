@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/account-rs.iml" filepath="$PROJECT_DIR$/.idea/modules/account-rs.iml" group="account-rs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/account-rs/account-rs_main.iml" filepath="$PROJECT_DIR$/.idea/modules/account-rs/account-rs_main.iml" group="account-rs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/account-rs/account-rs_test.iml" filepath="$PROJECT_DIR$/.idea/modules/account-rs/account-rs_test.iml" group="account-rs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/account-schema.iml" filepath="$PROJECT_DIR$/.idea/modules/account-schema.iml" group="account-schema" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/account-schema/account-schema_main.iml" filepath="$PROJECT_DIR$/.idea/modules/account-schema/account-schema_main.iml" group="account-schema" />
+      <module fileurl="file://$PROJECT_DIR$/account-service.iml" filepath="$PROJECT_DIR$/account-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/account-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/account-service_main.iml" group="account-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/account-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/account-service_test.iml" group="account-service" />
+    </modules>
+  </component>
+</project>
